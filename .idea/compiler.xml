@@ -7,8 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="bulls-stock-user" />
         <module name="bulls-stock-gateway" />
+        <module name="cat-demo-gateway" />
+        <module name="bulls-stock-user" />
+        <module name="cat-demo-order" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

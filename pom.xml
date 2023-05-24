@@ -11,6 +11,7 @@
     <modules>
         <module>bulls-stock-user</module>
         <module>bulls-stock-gateway</module>
+        <module>cat-demo</module>
     </modules>
 
     <!-- 自定义属性， 统一管理版本 -->
