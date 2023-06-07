@@ -10,6 +10,8 @@
         <module name="bulls-stock-gateway" />
         <module name="cat-demo-gateway" />
         <module name="bulls-stock-user" />
+        <module name="cat-demo-account" />
+        <module name="cat-demo-stock" />
         <module name="cat-demo-order" />
       </profile>
     </annotationProcessing>

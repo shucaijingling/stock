@@ -14,6 +14,8 @@
     <modules>
         <module>cat-demo-gateway</module>
         <module>cat-demo-order</module>
+        <module>cat-demo-account</module>
+        <module>cat-demo-stock</module>
     </modules>
 
     <properties>
@@ -41,7 +43,7 @@
         <dependency>
             <groupId>com.dianping.cat</groupId>
             <artifactId>cat-client</artifactId>
-            <version>3.0.1</version>
+            <version>3.1.0</version>
         </dependency>
     </dependencies>
 
